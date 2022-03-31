@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BREACH - Distancing Monitor</string>
+    <string name="title_home_full">Active Users</string>
+    <string name="title_home">Users</string>
+    <string name="title_history">History</string>
+    <string name="safer">Minimum Distance</string>
+    <string name="ok">SAFE</string>
+    <string name="warning">CAUTION...</string>
+    <string name="strong_warning">WARNING !</string>
+    <string name="too_close">TOO CLOSE !</string>
+    <string name="signal_strength">Signal strength:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="onboard_one_section_label">Introduction</string>
+    <string name="onboard_two_section_label">Device Detection</string>
+    <string name="onboard_three_section_label">Notifications &amp; Alerts</string>
+    <string name="onboard_four_section_label">AR Distance Tracking</string>
+    <string name="onboard_one_section_description">Welcome to BREACH - Distance Monitor... This project is meant to help monitor social distancing within the personal premises of users, to prevent infections of contagious plagues. </string>
+    <string name="onboard_two_section_description">The app uses the signal strength of other bluetooth-enabled smartphones to identify other users estimated location.</string>
+    <string name="onboard_three_section_description">You will be alerted through the notification sound of your device when you are in close range with other users.</string>
+    <string name="onboard_four_section_description">The visual distancing mode is made for users who want to monitor the real world distance between themselves and other inidividuals using Augmented Reality.</string>
+    <string name="finish">Finish</string>
+    <string name="person_icon">Person Icon</string>
+    <string name="bluetooth_signal_icon">Bluetooth signal icon</string>
+    <string name="action_notification_settings">Notification Settings</string>
+    <string name="alarm">Alarm</string>
+    <string name="there_are_no_app_users_detected">No Current Users.</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="reset_dialog_message">Exiting your team will remove handsets you scanned and remove you from handsets that have scanned you.</string>
+    <string name="nothing_scanned">Nothing Scanned, try again.</string>
+    <string name="no_data_scanned">No data Scanned, try again.</string>
+    <string name="scanned_this_app_will_be_added">This app user will be added to your team.</string>
+    <string name="you_didnt_scan">You didn\'t scan the other app, try again.</string>
+    <string name="scannned">Scanned!</string>
+    <string name="try_again">Try Again</string>
+    <string name="your_team_has_0_people">Your team has 0 people</string>
+    <string name="the_app_has_paused_detecting_other_devices">Detection is PAUSED.</string>
+    <string name="resume_detecting_devices">RESUME</string>
+</resources>

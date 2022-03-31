@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206919671194",
+    "project_id": "breach-8c351",
+    "storage_bucket": "breach-8c351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206919671194:android:518702c116444aa2e06e23",
+        "android_client_info": {
+          "package_name": "com.lasiya.breach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206919671194-sg0ctqsc617anuqhu7lbiepbpu4t9dss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VsYMXJgYoEBYjQ-dNKvuIS79iju6qaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206919671194-sg0ctqsc617anuqhu7lbiepbpu4t9dss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
